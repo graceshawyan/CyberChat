@@ -14,8 +14,22 @@ This project requires Python 3 and `tkinter` to be installed on your machine.
 
 ### Instructions:
 
- **Clone the repository**:
+ 1. **Clone the repository**:
    ```bash
    git clone https://github.com/graceshawyan/CyberChat.git
    cd CyberChat
+
+ 2. **Make sure to install python and tkinter**:
+   Mac
+   brew install python-tk
+
+   Linux
+   sudo apt-get install python3-tk
+
+   Windows
+   (tkinter is pre-installed with python)
+
+ 3. **Run CyberChat**
+   python3 CyberChat.py
+
 
