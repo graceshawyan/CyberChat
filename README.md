@@ -8,6 +8,8 @@ This **Cybersecurity Chatbot** is an interactive tool built with Python's `tkint
 - **Quizzes**: Test your knowledge with cybersecurity-related questions.
 - **Cybersecurity Topics**: Learn about 10 key aspects of cybersecurity!
 
+![CyberChat Preview](https://github.com/graceshawyan/CyberChat/raw/main/CyberChat%20Preview.png)
+
 ## Installations
 
 This project requires Python 3 and `tkinter` to be installed on your machine.
