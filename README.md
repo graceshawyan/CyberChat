@@ -20,16 +20,16 @@ This project requires Python 3 and `tkinter` to be installed on your machine.
     cd CyberChat
  2. **Make sure to install python and tkinter**:
    - Mac
-   ```brew install python-tk
+   ```brew install python-tk```
 
    - Linux
-   ```sudo apt-get install python3-tk
+   ```sudo apt-get install python3-tk```
 
    - Windows
     - (tkinter is pre-installed with python)
 
  3. **Run CyberChat**
-   ```python3 CyberChat.py
+   ```python3 CyberChat.py```
 
 
 
